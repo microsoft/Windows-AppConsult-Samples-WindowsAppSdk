@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "9m0XJ6Q60JRRuRYkDnLU/TgcwORUh9xEDtDUKCy63ns0wYwZ3HUa17lUAkdSrOxlz2rLytgd897sFSvMsCYu6A==",
+  "success": true,
+  "projectFilePath": "C:\\p\\Sample-TitleBar\\TitleBar\\TitleBar (Package)\\TitleBar (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikefra\\.nuget\\packages\\microsoft.projectreunion\\0.8.1\\microsoft.projectreunion.0.8.1.nupkg.sha512",
+    "C:\\Users\\mikefra\\.nuget\\packages\\microsoft.projectreunion.dwrite\\0.8.1\\microsoft.projectreunion.dwrite.0.8.1.nupkg.sha512",
+    "C:\\Users\\mikefra\\.nuget\\packages\\microsoft.projectreunion.foundation\\0.8.1\\microsoft.projectreunion.foundation.0.8.1.nupkg.sha512",
+    "C:\\Users\\mikefra\\.nuget\\packages\\microsoft.projectreunion.interactiveexperiences\\0.8.1\\microsoft.projectreunion.interactiveexperiences.0.8.1.nupkg.sha512",
+    "C:\\Users\\mikefra\\.nuget\\packages\\microsoft.projectreunion.winui\\0.8.1\\microsoft.projectreunion.winui.0.8.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.ProjectReunion.InteractiveExperiences 0.8.1' was restored using 'net5.0-windows10.0.19041, .NETCoreApp,Version=v3.1, .NETCoreApp,Version=v3.0, .NETCoreApp,Version=v2.0, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, net5.0-windows10.0.17763, net6.0-windows10.0.17763, .NETFramework,Version=v4.6.1' instead of the project target framework 'UAP,Version=v10.0.17763'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.ProjectReunion.InteractiveExperiences",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763"
+      ]
+    }
+  ]
+}

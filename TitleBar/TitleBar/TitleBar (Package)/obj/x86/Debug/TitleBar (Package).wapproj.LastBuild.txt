@@ -1,0 +1,24 @@
+C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\Images\SplashScreen.scale-200.png
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\Images\LockScreenLogo.scale-200.png
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\Images\Square150x150Logo.scale-200.png
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\Images\Square44x44Logo.scale-200.png
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\Images\StoreLogo.png
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\Images\Wide310x150Logo.scale-200.png
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\resources.pri
+C:\Users\mikefra\.nuget\packages\microsoft.projectreunion.foundation\0.8.1\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\Users\mikefra\.nuget\packages\microsoft.projectreunion.winui\0.8.1\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\mikefra\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.18\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\mikefra\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.18\lib\WinRT.Runtime.dll
+C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\TitleBar.deps.json
+C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\TitleBar.runtimeconfig.dev.json
+C:\p\Sample-TitleBar\TitleBar\TitleBar\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf
+C:\p\Sample-TitleBar\TitleBar\TitleBar\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf
+C:\p\Sample-TitleBar\TitleBar\TitleBar\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe
+C:\Users\mikefra\.nuget\packages\microsoft.projectreunion.foundation\0.8.1\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\TitleBar.runtimeconfig.json
+C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\TitleBar.dll
+C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\TitleBar.pdb

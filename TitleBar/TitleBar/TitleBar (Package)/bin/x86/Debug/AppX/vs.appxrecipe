@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MJFSURFACE</Machine>
+    <WindowsUser>mikefra</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>7861ef3a-86fb-42aa-b371-9d274852eff2</PackageIdentityName>
+    <PackageIdentityPublisher>CN=mikefra</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>378A021F27F1DF563A917F102419F3F7B3053108A771C712858419CA5709C9A9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>7861ef3a-86fb-42aa-b371-9d274852eff2_1.0.0.0_x86__n3sawgb4qe5x4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>7861ef3a-86fb-42aa-b371-9d274852eff2_n3sawgb4qe5x4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>7861ef3a-86fb-42aa-b371-9d274852eff2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=mikefra</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-08-07T18:30:46.350</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2021-08-07T18:30:43.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>MainWindow.xbf</PackagePath>
+      <Modified>2021-08-07T18:30:43.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2020-12-02T12:59:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-07-14T12:54:43.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2021-07-14T12:54:43.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-07-14T12:54:43.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-07-14T12:54:43.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-07-14T12:54:43.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-07-14T12:54:43.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2021-07-14T12:54:43.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar %28Package%29\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2021-08-07T18:30:46.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mikefra\.nuget\packages\microsoft.projectreunion.foundation\0.8.1\lib\net5.0-windows\Microsoft.ApplicationModel.Resources.Projection.dll">
+      <PackagePath>TitleBar\Microsoft.ApplicationModel.Resources.Projection.dll</PackagePath>
+      <Modified>2021-07-06T21:59:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mikefra\.nuget\packages\microsoft.projectreunion.winui\0.8.1\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+      <PackagePath>TitleBar\Microsoft.WinUI.dll</PackagePath>
+      <Modified>2021-07-06T21:59:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mikefra\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.18\lib\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>TitleBar\Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2021-06-17T23:55:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mikefra\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.18\lib\WinRT.Runtime.dll">
+      <PackagePath>TitleBar\WinRT.Runtime.dll</PackagePath>
+      <Modified>2021-06-17T23:55:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\TitleBar.deps.json">
+      <PackagePath>TitleBar\TitleBar.deps.json</PackagePath>
+      <Modified>2021-08-07T18:30:44.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\TitleBar.runtimeconfig.dev.json">
+      <PackagePath>TitleBar\TitleBar.runtimeconfig.dev.json</PackagePath>
+      <Modified>2021-08-06T18:37:55.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar\obj\x86\Debug\net5.0-windows10.0.19041.0\App.xbf">
+      <PackagePath>TitleBar\App.xbf</PackagePath>
+      <Modified>2021-08-07T18:30:43.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar\obj\x86\Debug\net5.0-windows10.0.19041.0\MainWindow.xbf">
+      <PackagePath>TitleBar\MainWindow.xbf</PackagePath>
+      <Modified>2021-08-07T18:30:43.222</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar\obj\x86\Debug\net5.0-windows10.0.19041.0\apphost.exe">
+      <PackagePath>TitleBar\TitleBar.exe</PackagePath>
+      <Modified>2021-08-07T18:30:43.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\TitleBar.runtimeconfig.json">
+      <PackagePath>TitleBar\TitleBar.runtimeconfig.json</PackagePath>
+      <Modified>2021-08-06T18:37:55.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\p\Sample-TitleBar\TitleBar\TitleBar\bin\x86\Debug\net5.0-windows10.0.19041.0\TitleBar.dll">
+      <PackagePath>TitleBar\TitleBar.dll</PackagePath>
+      <Modified>2021-08-07T18:30:43.485</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\mikefra\.nuget\packages\microsoft.projectreunion\0.8.1\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8001.186.2159.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8001.186.2159.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\mikefra\.nuget\packages\microsoft.projectreunion\0.8.1\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\mikefra\.nuget\packages\microsoft.projectreunion\0.8.1\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8001.186.2159.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8001.186.2159.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\mikefra\.nuget\packages\microsoft.projectreunion\0.8.1\build\..\tools\MSIX\win10-x86\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\mikefra\.nuget\packages\microsoft.projectreunion\0.8.1\build\..\tools\MSIX\win10-x64\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8001.186.2159.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8001.186.2159.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\mikefra\.nuget\packages\microsoft.projectreunion\0.8.1\build\..\tools\MSIX\win10-x64\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\mikefra\.nuget\packages\microsoft.projectreunion\0.8.1\build\..\tools\MSIX\win10-arm64\Microsoft.ProjectReunion.0.8.msix">
+      <Name>Microsoft.ProjectReunion.0.8</Name>
+      <Version>8001.186.2159.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.ProjectReunion.0.8, MinVersion = 8001.186.2159.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\mikefra\.nuget\packages\microsoft.projectreunion\0.8.1\build\..\tools\MSIX\win10-arm64\Microsoft.ProjectReunion.0.8.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\arm\Microsoft.VCLibs.arm.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\arm64\Microsoft.VCLibs.arm64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug.UWPDesktop</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug.UWPDesktop, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.29231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.29231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

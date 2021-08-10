@@ -1,0 +1,38 @@
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\App.xbf
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\MainWindow.xbf
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\Microsoft.ApplicationModel.Resources.Projection.dll
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\Microsoft.WinUI.dll
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\Microsoft.Windows.SDK.NET.dll
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\WinRT.Runtime.dll
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\TitleBar.deps.json
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\TitleBar.runtimeconfig.dev.json
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\App.xbf
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\MainWindow.xbf
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\TitleBar.exe
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\Microsoft.ApplicationModel.Resources.Projection.pdb
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\TitleBar.runtimeconfig.json
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\TitleBar.dll
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar\TitleBar.pdb
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\resources.pri
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\AppxManifest.xml
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\bin\x86\Debug\TitleBar (Package).build.appxrecipe
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\TitleBar (Package).wapproj.AssemblyReference.cache
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\TitleBar (Package).wapproj.CoreCompileInputs.cache
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\TitleBar.pri.xml
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\priconfig.xml
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\priconfig.xml.intermediate
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\unfiltered.layout.resfiles
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\filtered.layout.resfiles
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\excluded.layout.resfiles
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\resources.resfiles
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\resources.resfiles.intermediate
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\pri.resfiles
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\pri.resfiles.intermediate
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\qualifiers.txt
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\qualifiers.txt.intermediate
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\ProjectArchitectures.txt
+C:\p\Sample-TitleBar\TitleBar\TitleBar (Package)\obj\x86\Debug\TitleBar (Package).wapproj.LastBuild.txt
