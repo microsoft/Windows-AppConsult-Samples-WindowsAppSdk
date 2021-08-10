@@ -1,4 +1,4 @@
-# Project Reunion Samples
+# Windows App SDK Samples
 
 ## Contributing
 
